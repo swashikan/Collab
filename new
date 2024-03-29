@@ -1,0 +1,10 @@
+git clone https://github.com/swashikan/Collab.git
+
+git status
+
+git add .
+
+git commit -m "your changes info"
+
+git push
+
